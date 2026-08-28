@@ -1,0 +1,8 @@
+FunduSegmenter_CroppedImage.pth
+DUNet_OD_CentreCrop_pretrained.pth
+
+Segementation\FunduSegmenter\
+Segementation\SA-UNet\
+Segementation\SA-UNet-Keras3\
+
+.vscode
