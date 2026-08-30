@@ -1,8 +1,15 @@
 FunduSegmenter_CroppedImage.pth
 DUNet_OD_CentreCrop_pretrained.pth
 
-Segementation\FunduSegmenter\
-Segementation\SA-UNet\
-Segementation\SA-UNet-Keras3\
+Segmentation\FunduSegmenter
+Segementation\SA-UNet
+Segementation\SA-UNet-Keras3
 
 .vscode
+
+BRSET_processed
+masks_output
+BRSET_processed_test
+dataset_split
+preprocessed_before_macula_cleanup.csv
+preprocessed_backup.csv
